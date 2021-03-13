@@ -22,6 +22,10 @@ public class DebugTest {
         System.out.println(map);
 
         Show();
+
+        Dxy dxy=new Dxy(2017,"dxy");
+        dxy.show();
+
     }
 
     public static void Show(){
